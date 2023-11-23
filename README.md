@@ -1,4 +1,4 @@
-# grok_ai_demo
+# chatgpt clone
 
 A new Flutter project.
 
